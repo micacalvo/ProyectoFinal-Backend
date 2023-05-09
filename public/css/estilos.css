@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #2d4f38 !important;
+}
+
+.container {
+  max-width: 960px;
+  margin: 0 auto;
+  border-radius: 5px;
+  padding: 25px;
+}
+
+.containerLogin {
+  margin-top: 180px;
+}
+
+.profileModal {
+  height: fit-content;
+}
+
+.h1Profile {
+  padding-left: 85px;
+}
+.imgProfile {
+  width: 100%;
+  height: 100%;
+  border-radius: 20%;
+}
+
+.titleProd {
+  font-weight: medium;
+  font-style: normal;
+  font-size: 25px;
+  padding-top: 40px !important;
+}
+
+.priceProd {
+  font-weight: medium;
+  font-style: normal;
+  font-size: 25px;
+  padding-top: 40px !important;
+}
+
+.imgProd {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+}
+
+label {
+  font-weight: medium;
+  font-style: normal;
+}
+
+.jumbotron {
+  min-height: 100vh;
+}
